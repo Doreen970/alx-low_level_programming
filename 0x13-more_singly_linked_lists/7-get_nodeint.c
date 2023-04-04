@@ -12,7 +12,7 @@ listint_t *get_nodeint_at_index(listint_t *head, unsigned int index)
 	unsigned int a = 0;
 
 	mem = head;
-	while (mem != NULL && (a< index))
+	while (mem != NULL && (a < index))
 	{
 		mem = mem->next;
 		a++;
