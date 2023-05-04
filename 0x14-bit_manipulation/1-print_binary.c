@@ -20,7 +20,7 @@ unsigned long int _pow(unsigned int base, unsigned int pwr)
 
 /**
  * print_binary - prints a number in binary notation
- * @n: number to print
+ * @m: number to print
  *
  * Return: void
  */
