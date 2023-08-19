@@ -1,1 +1,1 @@
-A repository for double linked lists tasks in C
+doubly linked lists project in C
