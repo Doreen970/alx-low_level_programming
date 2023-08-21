@@ -1,3 +1,4 @@
+#include<stdio.h>
 /*
  * add - Function that adds two integers.
  * @a: The first integer.
